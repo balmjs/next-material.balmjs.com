@@ -1,0 +1,1 @@
+(self.webpackChunkbalm_ui=self.webpackChunkbalm_ui||[]).push([[4863],{74863:function(e,n,r){"use strict";r.r(n),r.d(n,{default:function(){return t}});var a=r(73114);var u={metaInfo:{titleTemplate:"%s - Upgrade Guide"},render:function(e,n,r,u,t,l){var o=(0,a.resolveComponent)("pure-page");return(0,a.openBlock)(),(0,a.createBlock)(o,{name:"upgrade"})}},t=u}}]);
